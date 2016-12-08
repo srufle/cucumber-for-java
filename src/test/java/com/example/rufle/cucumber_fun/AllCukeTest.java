@@ -13,5 +13,5 @@ import cucumber.api.junit.Cucumber;
 		,monochrome = true
 		,plugin={"progress"} // ,plugin={"pretty"}
 )
-public class AllCukeTests {
+public class AllCukeTest {
 }
