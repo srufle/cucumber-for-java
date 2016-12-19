@@ -1,10 +1,7 @@
 package com.example.rufle.cucumber_fun.nicebank;
 
-import lombok.Getter;
-
 public class Account {
 
-    // @Getter
     private Money balance = new Money();
 
     public Account(Money amount) {
